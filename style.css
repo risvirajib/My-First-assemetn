@@ -12,6 +12,9 @@
     font-size: 20px;
     padding-left: 60px;
     padding-top: 25px;
+    font-family: "Boldonse", system-ui;
+  font-weight: 400;
+  font-style: normal;
 }
 #Singup{
     background-color: rgb(5, 5, 176);
@@ -161,6 +164,8 @@ button:hover{
 }
 #text{
     text-align: center;
+     
+
 }
 #banner{
     align-items: center;
@@ -230,6 +235,9 @@ button:hover{
     padding-bottom: 0px;
     color: blue;
     font-weight: 1700px;
+     font-family: "Boldonse", system-ui;
+  font-weight: 400;
+  font-style: normal;
 }
 
 
