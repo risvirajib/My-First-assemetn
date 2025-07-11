@@ -5,7 +5,7 @@
 }
 
 #logo{
-    color: blue;
+    color: rgb(5, 5, 192);
     font-weight: 700px; 
     display:inline-block;
     justify-content:space-between;
@@ -14,7 +14,7 @@
     padding-top: 25px;
 }
 #Singup{
-    background-color: blue;
+    background-color: rgb(5, 5, 176);
     border: 0px;
      border-radius: 5px;
      height: 40px;
